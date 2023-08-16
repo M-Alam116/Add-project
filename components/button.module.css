@@ -1,0 +1,17 @@
+.btn {
+  width: fit-content;
+  height: fit-content;
+  padding: 1rem 2rem;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  background: orange;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.btn:hover {
+    background: rgb(238, 169, 42);
+}
